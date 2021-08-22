@@ -6,6 +6,6 @@
 <div>
   <h1>Some of my websites:</h1>
   <a href="https://communitycontentviewer.com">Core Community Content Viewer</a>
-  <a href="https://coregamesfanshop.com">Core Cosmetic Shop Viewer</a>
+  <a href="https://coregamesshop.com">Core Cosmetic Shop Viewer</a>
   <a href="https://heph.games">My game studio on Core</a>
 </div>
