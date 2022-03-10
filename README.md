@@ -3,6 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aphrim&count_private=true&theme=synthwave&show_icons=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphrim&theme=synthwave&show_icons=true&langs_count=10&hide=html" />
 </div>
+<h2>^These stats aren't really accurate as 3 of my biggest projects are still private repos.</h2>
 <div style="display: flex">
   <h1>Some of my websites:</h1>
   <h3>Temporary note: All of them are down because NGINX is being a pain</h3>
