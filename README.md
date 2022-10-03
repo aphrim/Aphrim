@@ -5,6 +5,7 @@
 </div>
 <div style="display: flex">
   <h1>Current Projects: Compiler to x86 ASM for my language, 3d Game Engine, Manu Platform</h1>
+  <h2>Unfortunatly, school, so I code alot less now, and most of that time goes to comp prog and codeforces so even less for actual projects like 5 hr/week max :(</h2>
   <h1>Some of my websites:</h1>
   <div> <a href="https://aphrim.dev">Aphrim.dev</a> <p> My website I made to learn react.js that kind of acts as a portfolio </p> </div>
   <div> <a href="https://projects.aphrim.dev/ccviewer">Core Community Content Viewer</a> <p> Showcase of using my Core API Wrapper to make a searcher and viewer of the Core Games community content (Templates/Scripts publicly shared by creators on the platform)</p> </div>
